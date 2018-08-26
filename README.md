@@ -13,6 +13,7 @@ This programs is used to test the training set ( which are of Binary values), wh
 When values near [0.99391605] are mostly contaminated and lesser the values the lesser contamination
 
 The dataset contains
+             
              Climate   Chlorine Temperature  Waterflow
                 
                 [0,        0,        0,        1],
