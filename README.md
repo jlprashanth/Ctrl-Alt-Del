@@ -14,6 +14,7 @@ When values near [0.99391605] are mostly contaminated and lesser the values the 
 
 The dataset contains
              Climate   Chlorine Temperature  Waterflow
+                
                 [0,        0,        0,        1],
                 [0,        0,        1,        1],
                 [0,        1,        0,        1],
