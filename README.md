@@ -10,4 +10,8 @@ This Program uses a dataset of the levels of Water Contamination levels in a par
 # Neural Network
 This programs is used to test the training set ( which are of Binary values), which uses the sigmod function to predict the exact Contamination level
 
-When values near [0.98] 
+When values near [0.99391605] are mostly contaminated and lesser the values the lesser contamination
+
+The dataset contains
+
+
